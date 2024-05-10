@@ -1,4 +1,9 @@
-header {
-    background-color: #ffb4c7;
-    color: white;
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua&display=swap');
+:root {
+    --cor-de-fundo: #ffffff;
+    --rosa: rgb(255, 47, 82);
+    --branco: #ffa9c3;
+    --botao-ativo: #b83959;
+    --botao-inativo: rgba(255, 95, 143, 0.5);
+    --texto-fundo: rgba(255, 0, 64, 0.3);
 }
